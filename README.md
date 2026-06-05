@@ -3,8 +3,7 @@ Interactive Power BI dashboard analyzing sales, revenue, product performance, an
 
 
 # 📊 Financial Performance Dashboard
-
-#![Dashboard Preview](https://drive.google.com/file/d/1a9S_PFXXoh7YzsV4MkibA9X4_-kHkh6t/view?usp=drive_link)
+[Dashboard Preview]  (https://drive.google.com/file/d/1a9S_PFXXoh7YzsV4MkibA9X4_-kHkh6t/view?usp=drive_link)
 # 
 ## View My Portfolio
 
